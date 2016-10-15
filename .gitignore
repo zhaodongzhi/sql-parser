@@ -2,6 +2,10 @@ build/
 utils/
 bin/
 lib-test/
+cscope.in.out
+cscope.out
+cscope.po.out
+tags
 
 # Compiled Object files
 *.slo
